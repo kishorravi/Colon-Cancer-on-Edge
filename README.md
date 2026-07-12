@@ -88,4 +88,4 @@ The deployed model performs image classification directly on the STM32 microcont
 
 Kishor Ravikumar
 
-GitHub: https://github.com/your-github-username
+GitHub: [https://github.com/kishorravi](https://github.com/kishorravi/Colon-Cancer-on-Edge/tree/main)
